@@ -1,0 +1,17 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.box{
+display: inline-block;
+position: relative;
+margin: 0 0 0 40px;
+width: 100%;
+}
